@@ -1,0 +1,15 @@
+http://localhost/wordpress/wordpress/2022/10/19/second-post/
+
+simple click on + Button in Edit Site page navigates us to Add Post page
+how to go to main page if you are in Edit Post page-- on click of back button
+on home page we gets comment as 0 but there are some in a post
+
+after creating a post with table -it wont come perfectly
+
+- also design is not same in home page
+
+post title not visible only description
+
+whats the order of post and page visibility- the latest first 
+
+what are the categories and tags for post
